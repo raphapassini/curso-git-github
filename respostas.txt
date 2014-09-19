@@ -1,0 +1,37 @@
+Respostas das perguntas do Módulo 1
+------------------------------------
+
+Resuma em uma frase o que é GIT?  
+É um sistema de controle de versão distribuído, com ênfase em velocidade e simplicidade  
+
+
+Caso eu tenha um dúvida sobre um comando GIT como eu faço para obter essa ajuda? 
+Digite git help
+
+
+O GIT é ideal para gerenciar projetos pequenos, mas ele consegue gerenciar grandes bases de código?
+Sim, ele é capaz de gerenciar por exemplo a base de códigos do Kernel do Linux
+
+
+O que motivou a criação do git?
+Um desentendimento entre a comunidade desenvolvedora do Kernel do linux e a empresa privada que mantinha o Bitkeeper, sistema de controle de versão usado pela comunidade até então
+
+Respostas das perguntas do Módulo 2
+------------------------------------
+
+
+Qual o comando usado para enviar a minha cópia local do repositório para o servidor remoto?
+git push <remote> <branch>
+
+Como faço para atualizar a minha cópia local com o servidor remoto?
+git pull <remote> <branch>
+
+Existe alguma forma de trabalhar em um código novo/experimental sem afetar um código estável/em produção?
+Sim, você pode usar branchs para trabalhar em paralelo, quando o código estiver pronto/estável você pode juntá-lo ao branch principal fazendo um "git merge"
+
+Como você vai aplicar esse curso nos próximos dias?
+Resposta pessoal ;)
+
+
+
+
